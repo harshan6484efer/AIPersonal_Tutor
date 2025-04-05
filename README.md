@@ -13,3 +13,9 @@ Ai personal Tutor TIM
 -Create a .env (use the .example.env for reference) and replace the API keys
 
 -Run npm install and npm run dev to install dependencies and run locally
+
+# Llama Tutor (Intel Project Submission)
+
+This project is based on the open-source project [Llama Tutor] (https://github.com/Nutlope/llamatutor).
+
+All credit goes to the original authors. No major modifications have been made in this version. This version has been uploaded as part of the Intel AI project exploration.
