@@ -1,4 +1,4 @@
-Ai personal Tutor
+Ai personal Tutor TIM
 
 -Download the zip file and extract it
 -Clone the repo file 
