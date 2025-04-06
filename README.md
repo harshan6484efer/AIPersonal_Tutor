@@ -18,4 +18,4 @@ Ai personal Tutor TIM
 
 This project is based on the open-source project [Llama Tutor] (https://github.com/Nutlope/llamatutor).
 
-All credit goes to the original authors. No major modifications have been made in this version. This version has been uploaded as part of the Intel AI project exploration.
+All credit goes to the original authors.
